@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -16,7 +16,23 @@
 		339D88E52681D6910072D634 /* STCGamification.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 339D88E22681D6910072D634 /* STCGamification.podspec */; };
 		339D88E62681D6910072D634 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 339D88E32681D6910072D634 /* README.md */; };
 		339D88E72681D6910072D634 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 339D88E42681D6910072D634 /* LICENSE */; };
+		339D88EC2681D7B50072D634 /* STCGamification.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 339D88E92681D7770072D634 /* STCGamification.xcframework */; };
+		339D88ED2681D7B50072D634 /* STCGamification.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 339D88E92681D7770072D634 /* STCGamification.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		339D88EE2681D7B50072D634 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				339D88ED2681D7B50072D634 /* STCGamification.xcframework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		339D88C92681D5420072D634 /* STCGamification.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = STCGamification.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -30,6 +46,7 @@
 		339D88E22681D6910072D634 /* STCGamification.podspec */ = {isa = PBXFileReference; lastKnownFileType = file; path = STCGamification.podspec; sourceTree = SOURCE_ROOT; };
 		339D88E32681D6910072D634 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		339D88E42681D6910072D634 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
+		339D88E92681D7770072D634 /* STCGamification.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = STCGamification.xcframework; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +54,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				339D88EC2681D7B50072D634 /* STCGamification.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -62,6 +80,7 @@
 		339D88CB2681D5420072D634 /* STCGamification */ = {
 			isa = PBXGroup;
 			children = (
+				339D88E92681D7770072D634 /* STCGamification.xcframework */,
 				339D88E42681D6910072D634 /* LICENSE */,
 				339D88E32681D6910072D634 /* README.md */,
 				339D88E22681D6910072D634 /* STCGamification.podspec */,
@@ -86,6 +105,7 @@
 				339D88C52681D5420072D634 /* Sources */,
 				339D88C62681D5420072D634 /* Frameworks */,
 				339D88C72681D5420072D634 /* Resources */,
+				339D88EE2681D7B50072D634 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);

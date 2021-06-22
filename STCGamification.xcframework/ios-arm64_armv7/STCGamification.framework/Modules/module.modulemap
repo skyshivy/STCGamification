@@ -1,0 +1,11 @@
+framework module STCGamification {
+  umbrella header "STCGamification.h"
+
+  export *
+  module * { export * }
+}
+
+module STCGamification.Swift {
+    header "STCGamification-Swift.h"
+    requires objc
+}
