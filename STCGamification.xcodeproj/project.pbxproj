@@ -40,7 +40,7 @@
 		339D88D52681D5460072D634 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		339D88D82681D5460072D634 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		339D88DA2681D5460072D634 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		339D88E22681D6910072D634 /* STCGamification.podspec */ = {isa = PBXFileReference; lastKnownFileType = file; path = STCGamification.podspec; sourceTree = SOURCE_ROOT; };
+		339D88E22681D6910072D634 /* STCGamification.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = STCGamification.podspec; sourceTree = SOURCE_ROOT; };
 		339D88E32681D6910072D634 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		339D88E42681D6910072D634 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
