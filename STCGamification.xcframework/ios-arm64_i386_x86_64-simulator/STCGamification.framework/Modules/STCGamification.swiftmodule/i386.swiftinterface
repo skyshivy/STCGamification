@@ -14,12 +14,11 @@ public enum GameAction {
   case dismiss
   case onSuccess
   case tokenExpired
+  case gotResponce
   case error(_: Swift.String, _: Swift.String)
 }
 @_hasMissingDesignatedInitializers public class Game {
   public class func updateToken(token: Swift.String)
-  public class func presentController(controller: UIKit.UIViewController)
-  public class func navigateToController(controller: UIKit.UIViewController)
   public class func openGame(controller: UIKit.UIViewController, mobileNumber: Swift.String?, language: Swift.String, nationalId: Swift.String, nationalIdType: Swift.String, gameType: Swift.String, apiKey: Swift.String, gameid: Swift.String?, token: Swift.String, complition: ((STCGamification.GameAction) -> Swift.Void)?)
   @objc deinit
 }
