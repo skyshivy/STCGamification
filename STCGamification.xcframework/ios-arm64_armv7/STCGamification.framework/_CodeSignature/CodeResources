@@ -10,43 +10,43 @@
 		</data>
 		<key>ControllerHeaderView.nib/objects-11.0+.nib</key>
 		<data>
-		Sjp7Wf/pXVYkY+0a6dBB2Qul5Hs=
+		8JnQ1cTov/nmWLKresZQjOl4woI=
 		</data>
 		<key>ControllerHeaderView.nib/runtime.nib</key>
 		<data>
-		7y7NDaOFg7IhKN3jGViQ+A76SPA=
+		2RdqMOhmEv1rmOW7rnc59Ybabfw=
 		</data>
 		<key>CustomButtonView.nib</key>
 		<data>
-		iUTmGBJ1rbgjYBW4oJfit95nDCk=
+		Ipb/BJ2x2i2ef10TMRb39SoMOX0=
 		</data>
 		<key>CustomCircularProgressBar.nib</key>
 		<data>
-		glb4l6PMJD/oJ5hejq0yuYi0uEU=
+		uSqfAYLSl3aFvjkKcTG8DmrPSVY=
 		</data>
 		<key>ErrorView.nib/objects-11.0+.nib</key>
 		<data>
-		ow9lnZnhwRI78nEO9uWW5Cb7AVE=
+		JOn7VHA8380Sv1oAOolVd0ocdpI=
 		</data>
 		<key>ErrorView.nib/runtime.nib</key>
 		<data>
-		fvho5IDGY4juYligNx2KjCq9Pjk=
+		w1Ond46QOqaYjSPEdmR/5iozZmc=
 		</data>
 		<key>GameOverLayView.nib/objects-11.0+.nib</key>
 		<data>
-		HZzYhseZOtS+2Xu5eepYVUnIofw=
+		PVs8amdr3wreOc6+IiNzZ23lZs0=
 		</data>
 		<key>GameOverLayView.nib/runtime.nib</key>
 		<data>
-		CzSLY1vJPolfpDdmgJkMKD5G80M=
+		FAbUBlCN+vSacVgPF51p05EOPkQ=
 		</data>
 		<key>GuessBrand.storyboardc/GuessBrandController.nib/objects-11.0+.nib</key>
 		<data>
-		/VfALhClDIIgz9emhU/X5hCjEvY=
+		gDb836ZulLOo3greyeB0SLO7p4U=
 		</data>
 		<key>GuessBrand.storyboardc/GuessBrandController.nib/runtime.nib</key>
 		<data>
-		HI4CeGuqMU2AwlBY4a8FU4AttQk=
+		Xvcm0OP+mzJtAC71Kwl3rcxstMs=
 		</data>
 		<key>GuessBrand.storyboardc/Info.plist</key>
 		<data>
@@ -54,35 +54,35 @@
 		</data>
 		<key>GuessBrand.storyboardc/s7w-bR-Tmy-view-Ne4-Kr-hDY.nib/objects-11.0+.nib</key>
 		<data>
-		SOiOYymmdPV9kdmgEhnbvlLBFnU=
+		bKZd4R6FRWM5KwNCsx8E3KaJVyQ=
 		</data>
 		<key>GuessBrand.storyboardc/s7w-bR-Tmy-view-Ne4-Kr-hDY.nib/runtime.nib</key>
 		<data>
-		pn9ItnkzzSBMxKkg51OVWq9lK/A=
+		KVv0jHBJTCxmDNWJ5aNdBFMPsGQ=
 		</data>
 		<key>GuessBrandIntroView.nib/objects-11.0+.nib</key>
 		<data>
-		BK6380s1mRw3g/R0eaPSLdXUCLs=
+		2LnRHstpZao4gJ5nMlBxerv5VFo=
 		</data>
 		<key>GuessBrandIntroView.nib/runtime.nib</key>
 		<data>
-		9jtfR+Xvw9e6Ju3F6gC/jaP16mI=
+		k8oO2n9LVK7GaoQZ/gGBrOWG6aY=
 		</data>
 		<key>GuessBrandView.nib/objects-11.0+.nib</key>
 		<data>
-		14XEofZF5ZbPWNDmZUToxgLvB9g=
+		GSghWfKpPEx+wWP8KPIXKyuzp/A=
 		</data>
 		<key>GuessBrandView.nib/runtime.nib</key>
 		<data>
-		6EnnOGeqX9MuJNe/BYh6BBHVvNI=
+		uMdugopTYPQz+h7xHjvv4z83J1Y=
 		</data>
 		<key>GuessPopupView.nib/objects-11.0+.nib</key>
 		<data>
-		v8cvjudQrLDh+kx2QMFoOGmvHF0=
+		H5CReJGr7by/0CTDzZRfIL+/Dg4=
 		</data>
 		<key>GuessPopupView.nib/runtime.nib</key>
 		<data>
-		u7KHo+EdJ7hM7v//LcaCDo7Y3xo=
+		2gz8DJXd8IMXHJBEw+fiRVIp5sE=
 		</data>
 		<key>Headers/STCGamification-Swift.h</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>MatchHeaderView.nib</key>
 		<data>
-		ywhEXSOMfm4reYY/TzQBF10hu9Y=
+		ebyW1mPLLMByqPhAwXUReg7FUmQ=
 		</data>
 		<key>Modules/STCGamification.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -166,19 +166,19 @@
 		</data>
 		<key>PlayGameButtonView.nib/objects-11.0+.nib</key>
 		<data>
-		MUugSVwSVITy1Y22QpHo1SlH6wQ=
+		d8kvKdgNbhL8lFXrkUq1l/0p+NI=
 		</data>
 		<key>PlayGameButtonView.nib/runtime.nib</key>
 		<data>
-		Wq52uChDyaZMP34YSx+ygaEmSzo=
+		dFyHDR7kcI08kPpxxY1HLCy0E70=
 		</data>
 		<key>Predict.storyboardc/50H-MR-lTf-view-WPL-yx-CWc.nib/objects-11.0+.nib</key>
 		<data>
-		XQSAENsfrwbeZA+kdJJrh5pdvAk=
+		R9c4cOkkr77DditzlUkr5AiKf/U=
 		</data>
 		<key>Predict.storyboardc/50H-MR-lTf-view-WPL-yx-CWc.nib/runtime.nib</key>
 		<data>
-		3zmyl2J2ER4AZfq+hn1Ha7yu/nI=
+		rI1gcOlRCrtWgq8AFnQaT8MfznM=
 		</data>
 		<key>Predict.storyboardc/Info.plist</key>
 		<data>
@@ -186,79 +186,79 @@
 		</data>
 		<key>Predict.storyboardc/MatchViewController.nib/objects-11.0+.nib</key>
 		<data>
-		YRofcrvVPuKHg5M0owkaTN2xm/Q=
+		OgntGI6yCzNPD9JkWByJ6r67JLE=
 		</data>
 		<key>Predict.storyboardc/MatchViewController.nib/runtime.nib</key>
 		<data>
-		sNNKbkcRD3gUWf2AYH0URhclaEg=
+		s+oOhDhRRXzIq/dzrNAfdAcqyrc=
 		</data>
 		<key>Predict.storyboardc/PredictGameController.nib/objects-11.0+.nib</key>
 		<data>
-		RxV7aZ1PKACWpzD2xdDcL/v4HaQ=
+		mduJ/F81eiUdpqOxE40RqzJqiVk=
 		</data>
 		<key>Predict.storyboardc/PredictGameController.nib/runtime.nib</key>
 		<data>
-		l0pMJStSlQ/5ZeaUA05uCBfmmns=
+		JeHihiDuY9WxZMjkyN15XbbECx4=
 		</data>
 		<key>Predict.storyboardc/PredictProgressController.nib/objects-11.0+.nib</key>
 		<data>
-		a+s+yg0fvoiMXiVQfcFN3sYDnxU=
+		WMNm2KrkYkcdOC9rjtj+yeu3y5Y=
 		</data>
 		<key>Predict.storyboardc/PredictProgressController.nib/runtime.nib</key>
 		<data>
-		rv0Vah63TTv+87XllDxmaea69SU=
+		587q8QOt3p6Jkadb5BfFHPi+328=
 		</data>
 		<key>Predict.storyboardc/TournamentsViewController.nib/objects-11.0+.nib</key>
 		<data>
-		fBQaeHB0QPa2pXQT+QSfgc5Ag0I=
+		spgODtoOS3kEfg+ALhJMQa5RG7o=
 		</data>
 		<key>Predict.storyboardc/TournamentsViewController.nib/runtime.nib</key>
 		<data>
-		jKJNJmwAUJZkEh9L46igw48o7no=
+		GL27/QNqfDsa14SnxYoY2THwI/Y=
 		</data>
 		<key>Predict.storyboardc/Uis-S5-gOD-view-vZi-Uu-0dN.nib/objects-11.0+.nib</key>
 		<data>
-		c1Z2jffqyehCF5e6OmnXv0ECZxs=
+		6NjEjoJS6h1NiMefQ2E7VwXyVJY=
 		</data>
 		<key>Predict.storyboardc/Uis-S5-gOD-view-vZi-Uu-0dN.nib/runtime.nib</key>
 		<data>
-		f6wSrUo7gmwmKvcY9T7/dVKnnzQ=
+		mLxkJW7SPqqjTD1em44kTuIleyw=
 		</data>
 		<key>Predict.storyboardc/gGO-xN-xkP-view-7Px-hr-9KC.nib/objects-11.0+.nib</key>
 		<data>
-		mGse0NmxqZJ9qU1L52o7cJ7/zQg=
+		Xpl3NQyqDwSupEAIkIEXlQfCNYw=
 		</data>
 		<key>Predict.storyboardc/gGO-xN-xkP-view-7Px-hr-9KC.nib/runtime.nib</key>
 		<data>
-		qCx+8VUOeJi3qcZUcqXXrFp7mKE=
+		squbyQ8CkbeuNz4Yq0Tw4SZ9Yfc=
 		</data>
 		<key>Predict.storyboardc/gfh-ug-Ayd-view-geg-Em-IgW.nib/objects-11.0+.nib</key>
 		<data>
-		Qiw7uIdHycOaqFYKSO8MaNY9JbU=
+		TmLaTOW0SdHxf0xzkrt1EqNJvKk=
 		</data>
 		<key>Predict.storyboardc/gfh-ug-Ayd-view-geg-Em-IgW.nib/runtime.nib</key>
 		<data>
-		FlYc9unWOtzRrzAu0SW/B8eJi2g=
+		aG342HrOxyYJBOX/jV3hAwRLEOk=
 		</data>
 		<key>PredictMatchTVCell.nib</key>
 		<data>
-		psTpnq/Kcjh0jRy19nS+Cyw2Zpg=
+		KfBouKDA95Pi8SopFnv2VxSMqWI=
 		</data>
 		<key>PredictNotificationView.nib/objects-11.0+.nib</key>
 		<data>
-		iVcXxZUUisynkJZsxkQcTvtPTcQ=
+		DofYk9AQCc7YEteNM2gggVzOJ8I=
 		</data>
 		<key>PredictNotificationView.nib/runtime.nib</key>
 		<data>
-		RWQEC4y331bJ3/EgpVELsNI5IJw=
+		PkIlmQLiuqFtYjixfTSwEY4vR14=
 		</data>
 		<key>PredictSB.storyboardc/F3E-ar-M2W-view-MLQ-XP-cvd.nib/objects-11.0+.nib</key>
 		<data>
-		8JvXkpgcaVmzB01iSStYxNHwsUc=
+		YnXg6swReYLlE5S2TS9xdUdaaEw=
 		</data>
 		<key>PredictSB.storyboardc/F3E-ar-M2W-view-MLQ-XP-cvd.nib/runtime.nib</key>
 		<data>
-		ka0A6S88dJxUNcI9RtQm2wtXxek=
+		8XrCTjWBMALG8bYNRxQswFcsEgI=
 		</data>
 		<key>PredictSB.storyboardc/Info.plist</key>
 		<data>
@@ -266,51 +266,51 @@
 		</data>
 		<key>PredictSB.storyboardc/PredictGamesController.nib/objects-11.0+.nib</key>
 		<data>
-		+mQLQzAibLQWfpLg4vtxsSKth0g=
+		qVRSBNHkYufdHputFH6wN0wCj7c=
 		</data>
 		<key>PredictSB.storyboardc/PredictGamesController.nib/runtime.nib</key>
 		<data>
-		XE/fa192AZIfaWnofLFqPvrAeXE=
+		k1VM76RIUwD1wOMmVpt5a42BMWE=
 		</data>
 		<key>PredictSB.storyboardc/PredictIntroController.nib/objects-11.0+.nib</key>
 		<data>
-		AyFqrqy9lHNwLhIpfUJFnP+b+9M=
+		RWK2ID6odYlr9Gk4psWYr4nEoGg=
 		</data>
 		<key>PredictSB.storyboardc/PredictIntroController.nib/runtime.nib</key>
 		<data>
-		FH4XX8hL6bcwNQBzIdpW+oszxCM=
+		+usACYpYjtfmhJYzUie3IKisBzw=
 		</data>
 		<key>PredictSB.storyboardc/UINavigationController-49d-YC-ute.nib/objects-11.0+.nib</key>
 		<data>
-		UovMiTyzej5/Pkb+eEuA4S3038A=
+		yw0WsFsU/X9c97FcG7AmUbxXzvA=
 		</data>
 		<key>PredictSB.storyboardc/UINavigationController-49d-YC-ute.nib/runtime.nib</key>
 		<data>
-		nENsId9i8+ErZ9e0bq08YLOK/w4=
+		6GBEUPpU8YbrcLkvLQAY112BKPA=
 		</data>
 		<key>PredictSB.storyboardc/vAH-o6-3aM-view-dpW-9v-hNJ.nib/objects-11.0+.nib</key>
 		<data>
-		JgAVnRGlxWrSJ3xwyG1rQSfhcb8=
+		l4TdxOQrYuJHRSXWObvshFqD4rw=
 		</data>
 		<key>PredictSB.storyboardc/vAH-o6-3aM-view-dpW-9v-hNJ.nib/runtime.nib</key>
 		<data>
-		WPE9fIla0YgoUhm6Zh9rZGmbLI4=
+		Kp0VdaG9oJ6Ovr0ahUOmVK9ISxY=
 		</data>
 		<key>PredictTeamView.nib</key>
 		<data>
-		4IPZ/6LsEodqJbkFzC0O9o57Zz0=
+		Xl8Ft2IRJPEAEU/jPD8qw4KD410=
 		</data>
 		<key>PredictTermsConditionView.nib</key>
 		<data>
-		7oGQic/Oin0OCWm7HpAupd85SV4=
+		230KVZtC72gbP6HMhqCcxvjkOWA=
 		</data>
 		<key>ResultView.nib/objects-11.0+.nib</key>
 		<data>
-		Le+CFCf6XEGlg3czxyusPUD0FPA=
+		w7QCb2Jwqo79NELe1GvKzDztVyw=
 		</data>
 		<key>ResultView.nib/runtime.nib</key>
 		<data>
-		nW9u59rWhU4Y4Hwai0PIGb4tiGI=
+		8b8e1ekrkybBDqqxgfhn/8qkbzQ=
 		</data>
 		<key>STCForward-Bold.ttf</key>
 		<data>
@@ -330,49 +330,49 @@
 		</data>
 		<key>ShakeBox.storyboardc/ShakeBoxViewController.nib/objects-11.0+.nib</key>
 		<data>
-		gwLLOp0D2E0ThMbjdVhicx71RLw=
+		W6i7IqMgHl59Z1yuMwYeWcZ6nog=
 		</data>
 		<key>ShakeBox.storyboardc/ShakeBoxViewController.nib/runtime.nib</key>
 		<data>
-		VpRNo9gH1rwKKZtYPpgVVJ2Yt74=
+		zjpgejiPQ8PajqyJfa4Lw0zuy0A=
 		</data>
 		<key>ShakeBox.storyboardc/b4v-6M-DcD-view-Ez3-7j-o1j.nib/objects-11.0+.nib</key>
 		<data>
-		9dcNgHU+M7hz7KOXe514nyjvkVk=
+		gfkVF1BqMpPIToPQrFMwYKM8Zg4=
 		</data>
 		<key>ShakeBox.storyboardc/b4v-6M-DcD-view-Ez3-7j-o1j.nib/runtime.nib</key>
 		<data>
-		WTSMwsCsMgTBtVUbx0fYCs2ce9Q=
+		gWYWWE+1MlT72JhghmgHLLV9FMY=
 		</data>
 		<key>ShakeBoxView.nib</key>
 		<data>
-		rrAouRlDMAumxo2lv2QbQqvxGJc=
+		L4cOiGSdJVtLCBUK/QoZT0tJ314=
 		</data>
 		<key>TermsAndCondition.nib/objects-11.0+.nib</key>
 		<data>
-		1EiuoTT1D04SJe/ryeXleu3eEaY=
+		Mq4X8bHmAdwUYVNJEakwWeI1k04=
 		</data>
 		<key>TermsAndCondition.nib/runtime.nib</key>
 		<data>
-		0Kbd2M3rEEAl83QX+o+u0SaYJAI=
+		iIq1upI12FjIyoBeYrgKaQkyIdE=
 		</data>
 		<key>TermsView.nib/objects-11.0+.nib</key>
 		<data>
-		l6cTZgSM11g+8qx37RaLAlYXF6E=
+		yftK/ibOnMdYr4KerAIpUUGwv2A=
 		</data>
 		<key>TermsView.nib/runtime.nib</key>
 		<data>
-		mhZP+Bl8VNPAi7aYYLAq8lF7xmw=
+		5eWXfQgHQQkyw1KhuD4a46ocCmQ=
 		</data>
 		<key>UpComingMatchTableViewCell.nib</key>
 		<data>
-		NBu6m6T+Tna9W2h8NgeimUeHvDI=
+		RzeFC/lNk0R5wruDWqeDydEEADo=
 		</data>
 		<key>ar.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HZi6WtX/Cc7KcaLoXb3njrjPOh0=
+			Gs927LjHT5KpfWNhw5Ql/TF8DsY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -381,7 +381,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ePwf68ais0JfcTAG9EgpB4HUBwA=
+			lNFOhlURGtlFLVNPuCB16myCV+I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -404,110 +404,110 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Sjp7Wf/pXVYkY+0a6dBB2Qul5Hs=
+			8JnQ1cTov/nmWLKresZQjOl4woI=
 			</data>
 			<key>hash2</key>
 			<data>
-			vXVIwLq/eYWaxClwMYy9p7SI2lcCy8Y+mymC9LoG4Ig=
+			XMUbj+kqmguVjYCFZlhAhjYyUDnz6FkT3ovXxopiFwo=
 			</data>
 		</dict>
 		<key>ControllerHeaderView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7y7NDaOFg7IhKN3jGViQ+A76SPA=
+			2RdqMOhmEv1rmOW7rnc59Ybabfw=
 			</data>
 			<key>hash2</key>
 			<data>
-			AokP0sWvAgVnkC2nZgQxpdHNVrXdb2Nbfoy+4iBf0Mw=
+			u+bJ7Y4WfVlin2FfP1HmPGvXxeP1GkyFDpxDO94uyYw=
 			</data>
 		</dict>
 		<key>CustomButtonView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iUTmGBJ1rbgjYBW4oJfit95nDCk=
+			Ipb/BJ2x2i2ef10TMRb39SoMOX0=
 			</data>
 			<key>hash2</key>
 			<data>
-			RTFL+hgNcMyvW5TbCuqDXFkjA6ITu7z1p/jqpIzo8Qo=
+			FzlDCQhyg5w/dgWmtaTQTOU+g0L5wZAZnJlm+VJ7gvI=
 			</data>
 		</dict>
 		<key>CustomCircularProgressBar.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			glb4l6PMJD/oJ5hejq0yuYi0uEU=
+			uSqfAYLSl3aFvjkKcTG8DmrPSVY=
 			</data>
 			<key>hash2</key>
 			<data>
-			WkCPCzr8rqEb2s7zEhn5Sc8DTsRJnyqrbZA7I34ZaZk=
+			mHguf5lPm2LjeP1YyM/MMn7xFGRBYppPI+W/v+RqDHU=
 			</data>
 		</dict>
 		<key>ErrorView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ow9lnZnhwRI78nEO9uWW5Cb7AVE=
+			JOn7VHA8380Sv1oAOolVd0ocdpI=
 			</data>
 			<key>hash2</key>
 			<data>
-			zYeOCbbvOeK/04l7FsChobNFPDvPSHbwz6S38ObgPXg=
+			i7VXivY0VouiXYLIfSgA2WGu1ymiVFQYbvknEcFCdmY=
 			</data>
 		</dict>
 		<key>ErrorView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fvho5IDGY4juYligNx2KjCq9Pjk=
+			w1Ond46QOqaYjSPEdmR/5iozZmc=
 			</data>
 			<key>hash2</key>
 			<data>
-			gSJvawpcehyKoRPJzy26kIaRhKqzUoHGikKlYDM7m0s=
+			IFXFhwBdCHykJQThgmjBJ6wG/aRRsLgcdGW8JCjgZHk=
 			</data>
 		</dict>
 		<key>GameOverLayView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HZzYhseZOtS+2Xu5eepYVUnIofw=
+			PVs8amdr3wreOc6+IiNzZ23lZs0=
 			</data>
 			<key>hash2</key>
 			<data>
-			qKEqa0dq2aTqSW5O4gYYWcG7Hgg7nlqztl6qPUK1q9U=
+			pRvkIUMrw7U7z+0vBSQi2OvKjyB3q+y0IjoISqjg+Uc=
 			</data>
 		</dict>
 		<key>GameOverLayView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CzSLY1vJPolfpDdmgJkMKD5G80M=
+			FAbUBlCN+vSacVgPF51p05EOPkQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			vOfX70V5s5s+00hYwK4Ywpa12sXotMaXjnx5ZjQkJbg=
+			wfjrPTWebMZ1JmfVu7P7XXOE5a0XnyFMOgbywW9xvm4=
 			</data>
 		</dict>
 		<key>GuessBrand.storyboardc/GuessBrandController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/VfALhClDIIgz9emhU/X5hCjEvY=
+			gDb836ZulLOo3greyeB0SLO7p4U=
 			</data>
 			<key>hash2</key>
 			<data>
-			mwgvJGQRjZDE5RLW0UsuWl5SDLKn+Xu4gqUt1Qx14IQ=
+			B1D0TTdG0xaXS6LR3jLGCpy7+8LiTg/A1Ip42lR6gmo=
 			</data>
 		</dict>
 		<key>GuessBrand.storyboardc/GuessBrandController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HI4CeGuqMU2AwlBY4a8FU4AttQk=
+			Xvcm0OP+mzJtAC71Kwl3rcxstMs=
 			</data>
 			<key>hash2</key>
 			<data>
-			T/tpny+1CiR96Lpj3N4mMDoaYHYWVLzhYcNZmc12qTg=
+			rWeAqNAkbOJAFfTx2kYGSEDatuUEw7cWdCUnYq8HSRQ=
 			</data>
 		</dict>
 		<key>GuessBrand.storyboardc/Info.plist</key>
@@ -525,88 +525,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SOiOYymmdPV9kdmgEhnbvlLBFnU=
+			bKZd4R6FRWM5KwNCsx8E3KaJVyQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			U/kGJoJcpykWTgQZI3JdDcOzbYk4o/pxvePAqt52b6c=
+			LJ3U3VqshB08TyrSVh8mei9+baYn2Y2sCY/dtjHr/Lc=
 			</data>
 		</dict>
 		<key>GuessBrand.storyboardc/s7w-bR-Tmy-view-Ne4-Kr-hDY.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pn9ItnkzzSBMxKkg51OVWq9lK/A=
+			KVv0jHBJTCxmDNWJ5aNdBFMPsGQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			td0z632SbU2LE1JVOeyepAyAz6mgWsVq+P6BzD3RcYc=
+			kVtTJsQeibXoB11O06oXyESpwMWPO3er6u+R7pBBhxU=
 			</data>
 		</dict>
 		<key>GuessBrandIntroView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BK6380s1mRw3g/R0eaPSLdXUCLs=
+			2LnRHstpZao4gJ5nMlBxerv5VFo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ya7tISqd1qJsUFF42imRDbcoJI8h7vBL1U54j8li0S8=
+			gk1AkKPx62H4Wd5Pfj92EonlybB1MYcwsYVgk8SvrIk=
 			</data>
 		</dict>
 		<key>GuessBrandIntroView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9jtfR+Xvw9e6Ju3F6gC/jaP16mI=
+			k8oO2n9LVK7GaoQZ/gGBrOWG6aY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ppRE2nkTdG9SGz5xeN0xNALpotH1YPSIR6+7ifu1aN8=
+			fYOjj3joC70+kDt3eA45Qv1USvOzD4Osa7Mo8GpPzhg=
 			</data>
 		</dict>
 		<key>GuessBrandView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			14XEofZF5ZbPWNDmZUToxgLvB9g=
+			GSghWfKpPEx+wWP8KPIXKyuzp/A=
 			</data>
 			<key>hash2</key>
 			<data>
-			eKokFK53kpKBk/m5cJWPc/izx1qvXoaDIVE2QDSyslQ=
+			mRlVxTg5HnDrAo0vYjdFnu+bMbEf0BehbM+kUCf+3WQ=
 			</data>
 		</dict>
 		<key>GuessBrandView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6EnnOGeqX9MuJNe/BYh6BBHVvNI=
+			uMdugopTYPQz+h7xHjvv4z83J1Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			Nn9ERK2RnVNlINI2/Qne5j9VKAZztmkWx8sKzAsDwSA=
+			6XjgjXrNfTLTc7N97Gi9mzSBSVpIq+kZhzFNezgoJA4=
 			</data>
 		</dict>
 		<key>GuessPopupView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v8cvjudQrLDh+kx2QMFoOGmvHF0=
+			H5CReJGr7by/0CTDzZRfIL+/Dg4=
 			</data>
 			<key>hash2</key>
 			<data>
-			BQ3V1i1WmC8hI0z1EMHhjUqQNZ1F8mvhPmPuoVb/Eyc=
+			d7picUpj9Drgpe3ih4caThpobhTmooGa02wVAiY3s/4=
 			</data>
 		</dict>
 		<key>GuessPopupView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			u7KHo+EdJ7hM7v//LcaCDo7Y3xo=
+			2gz8DJXd8IMXHJBEw+fiRVIp5sE=
 			</data>
 			<key>hash2</key>
 			<data>
-			hGdaFUnwa7/JdlHgcVIFqjPGJ0CceVOxTOg6rO12UUo=
+			mdP5ohdgF5DOsb2V5Clk+7ujNxWJ0JUp7Jp6qf3/HQc=
 			</data>
 		</dict>
 		<key>Headers/STCGamification-Swift.h</key>
@@ -635,11 +635,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ywhEXSOMfm4reYY/TzQBF10hu9Y=
+			ebyW1mPLLMByqPhAwXUReg7FUmQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			PwFXsOPHUJypn3yK5pVs6xX8bw7asbHjtlmcWTEh56o=
+			BXBkTTNCC6bAABqKPNbMHNrh/B+UewFlywhOqCpG34Y=
 			</data>
 		</dict>
 		<key>Modules/STCGamification.swiftmodule/arm.swiftdoc</key>
@@ -822,44 +822,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MUugSVwSVITy1Y22QpHo1SlH6wQ=
+			d8kvKdgNbhL8lFXrkUq1l/0p+NI=
 			</data>
 			<key>hash2</key>
 			<data>
-			CIcJPjdWa1ke1qwSJDL2kAyTFx3UuZvAlvKxQWOnw9Q=
+			vMSAn+n1VoJ9pSKOCb27PuhuiQNmlByDV1Xr8JQsexI=
 			</data>
 		</dict>
 		<key>PlayGameButtonView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Wq52uChDyaZMP34YSx+ygaEmSzo=
+			dFyHDR7kcI08kPpxxY1HLCy0E70=
 			</data>
 			<key>hash2</key>
 			<data>
-			8p+2GBUZLadhuGpVwt/gXFpsGFE0yyKSzI6bdvWOPEI=
+			oSVeOjS50N6TeoqEPLx48hTHnL5XGYHU+I9NXX0X054=
 			</data>
 		</dict>
 		<key>Predict.storyboardc/50H-MR-lTf-view-WPL-yx-CWc.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XQSAENsfrwbeZA+kdJJrh5pdvAk=
+			R9c4cOkkr77DditzlUkr5AiKf/U=
 			</data>
 			<key>hash2</key>
 			<data>
-			yyErlej6FQFKAdwRBidUNRkeo5ffOa73+2LwL2alZ+Y=
+			01Z2eW0RmPbxDPpyiuLt3acWi23g03c78khaGaSwRZY=
 			</data>
 		</dict>
 		<key>Predict.storyboardc/50H-MR-lTf-view-WPL-yx-CWc.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3zmyl2J2ER4AZfq+hn1Ha7yu/nI=
+			rI1gcOlRCrtWgq8AFnQaT8MfznM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ElJ8+OifoUbEiukyfyKczNDoiPx1COJmJ9THxz1n/+Q=
+			BhEvEYPSR3DXfl5aeM3DpEaEkJH/4oJKypWSqvBx0fo=
 			</data>
 		</dict>
 		<key>Predict.storyboardc/Info.plist</key>
@@ -877,209 +877,209 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YRofcrvVPuKHg5M0owkaTN2xm/Q=
+			OgntGI6yCzNPD9JkWByJ6r67JLE=
 			</data>
 			<key>hash2</key>
 			<data>
-			S1Je+764skqDhmoAurEX4LVazxPf0XQhCZtTkpC901Q=
+			pUYtWk05PqY60xuwXd269WdRSdpGCEWxKi5OK1FpM34=
 			</data>
 		</dict>
 		<key>Predict.storyboardc/MatchViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sNNKbkcRD3gUWf2AYH0URhclaEg=
+			s+oOhDhRRXzIq/dzrNAfdAcqyrc=
 			</data>
 			<key>hash2</key>
 			<data>
-			+g2T3wLc8bO6Vro9w92lJxdXr5/bH1GMKt1CXar7e5o=
+			Qaz+9qrdQO30a1QTJwXBDbVLMvjQ+MuPzjGvOIzXwzs=
 			</data>
 		</dict>
 		<key>Predict.storyboardc/PredictGameController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RxV7aZ1PKACWpzD2xdDcL/v4HaQ=
+			mduJ/F81eiUdpqOxE40RqzJqiVk=
 			</data>
 			<key>hash2</key>
 			<data>
-			5kTuAUrgqKitOGsmF79aRrm/l+nqlYdLOkwPx37ebnc=
+			mdq5Q8veKO1tyMW2mneNQ9xCFKSBGn6vU/I0WExuKp4=
 			</data>
 		</dict>
 		<key>Predict.storyboardc/PredictGameController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			l0pMJStSlQ/5ZeaUA05uCBfmmns=
+			JeHihiDuY9WxZMjkyN15XbbECx4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qa+y50T38cDLO5vTK++b8DxzDrZM9+Sn82yyjg27Zw8=
+			hXD8wPTrW4gwEZLD+B7ZgMXTwE1fR8p3YoIGHsjayGg=
 			</data>
 		</dict>
 		<key>Predict.storyboardc/PredictProgressController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			a+s+yg0fvoiMXiVQfcFN3sYDnxU=
+			WMNm2KrkYkcdOC9rjtj+yeu3y5Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			Fpu32jy8rKoH2si6ZzPkJOhS6AqPVQylj3q4K/qDjkA=
+			m0Hgi95Ny7KtF2GBEGr5RQ3Qn1zyFk3t6zeyFL1E9eg=
 			</data>
 		</dict>
 		<key>Predict.storyboardc/PredictProgressController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rv0Vah63TTv+87XllDxmaea69SU=
+			587q8QOt3p6Jkadb5BfFHPi+328=
 			</data>
 			<key>hash2</key>
 			<data>
-			B57FT74bqX+1/vZqzdgAaTz2iZLxoG+Sy3EZmYinPRo=
+			WNzfIaaqGUgr/KvapUPScCE7AcyjaLphLuS6134CCkY=
 			</data>
 		</dict>
 		<key>Predict.storyboardc/TournamentsViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fBQaeHB0QPa2pXQT+QSfgc5Ag0I=
+			spgODtoOS3kEfg+ALhJMQa5RG7o=
 			</data>
 			<key>hash2</key>
 			<data>
-			na50s2KqMEu5hIx/xhRARTLgRMx7efZhqDOZcOmTQDM=
+			2Cpzzim1BnJ2MjYTqZKDN5580nt8ahz8VHB4huBRHMI=
 			</data>
 		</dict>
 		<key>Predict.storyboardc/TournamentsViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jKJNJmwAUJZkEh9L46igw48o7no=
+			GL27/QNqfDsa14SnxYoY2THwI/Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			fMj0Z0FX1x/X2Awl+oslx81fErkLA2yayeSkemGffDY=
+			x4o4BbB4rSLCfmiJCFwI3TiMTGrIhnmSRGeJXVgCKEw=
 			</data>
 		</dict>
 		<key>Predict.storyboardc/Uis-S5-gOD-view-vZi-Uu-0dN.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c1Z2jffqyehCF5e6OmnXv0ECZxs=
+			6NjEjoJS6h1NiMefQ2E7VwXyVJY=
 			</data>
 			<key>hash2</key>
 			<data>
-			r+46AHu8YchsVx4b+YBlVxgEQ010e7nEDfnWlUoP//0=
+			t7p4HJYJxD6OtfT1m5+J1+h48mzqiaARYuh1aJGPmrg=
 			</data>
 		</dict>
 		<key>Predict.storyboardc/Uis-S5-gOD-view-vZi-Uu-0dN.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			f6wSrUo7gmwmKvcY9T7/dVKnnzQ=
+			mLxkJW7SPqqjTD1em44kTuIleyw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Rh1G11nVY3IkgVJBSd4Zl7UKY0nSDEz8v2ASEKjiHGc=
+			LByAT8N8rvcDg3T2+DlRac8ICZSSaW2TLV35vE3MSO4=
 			</data>
 		</dict>
 		<key>Predict.storyboardc/gGO-xN-xkP-view-7Px-hr-9KC.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mGse0NmxqZJ9qU1L52o7cJ7/zQg=
+			Xpl3NQyqDwSupEAIkIEXlQfCNYw=
 			</data>
 			<key>hash2</key>
 			<data>
-			AxWQ4TJnjbGvFAaNSmWw7uC4xHiKn6To8l1AOQYLzJ0=
+			Y+sqZyBFYGX1s2u/0I/aa+id0buhtnNUoMBihbivGIg=
 			</data>
 		</dict>
 		<key>Predict.storyboardc/gGO-xN-xkP-view-7Px-hr-9KC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qCx+8VUOeJi3qcZUcqXXrFp7mKE=
+			squbyQ8CkbeuNz4Yq0Tw4SZ9Yfc=
 			</data>
 			<key>hash2</key>
 			<data>
-			jpaKJuQC8TD08M2itf0MgVDVVcGd8M3xyi1Nopqw+bw=
+			nSNJ2zm//11fvDUqPmjex8qJ+IogF0cPADLtw8pbBzg=
 			</data>
 		</dict>
 		<key>Predict.storyboardc/gfh-ug-Ayd-view-geg-Em-IgW.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Qiw7uIdHycOaqFYKSO8MaNY9JbU=
+			TmLaTOW0SdHxf0xzkrt1EqNJvKk=
 			</data>
 			<key>hash2</key>
 			<data>
-			PP3d7kEznh3o09PGhVECL0TZwLpmtthXZdYWOLv3WnY=
+			ePptKOSUt/qb2bpywLb0e7OYhMTA3c7QZdRYrx/1K0k=
 			</data>
 		</dict>
 		<key>Predict.storyboardc/gfh-ug-Ayd-view-geg-Em-IgW.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FlYc9unWOtzRrzAu0SW/B8eJi2g=
+			aG342HrOxyYJBOX/jV3hAwRLEOk=
 			</data>
 			<key>hash2</key>
 			<data>
-			xLej6WX6cYwJe8juT/UB8XnU8C2B+Sck9cad9x69W7g=
+			4hX/9uuFLePavCZVaRwf8G3K86PuIWOUtgAVrkSW+OU=
 			</data>
 		</dict>
 		<key>PredictMatchTVCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			psTpnq/Kcjh0jRy19nS+Cyw2Zpg=
+			KfBouKDA95Pi8SopFnv2VxSMqWI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Mtxe5IeUPwPVjUgyMj2rVaar+tkYt2uLEWGWKAXbcUs=
+			wy5vRzF7LPAEN0pFqI0bakVivo2uAWWdq6xa1Xlezww=
 			</data>
 		</dict>
 		<key>PredictNotificationView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iVcXxZUUisynkJZsxkQcTvtPTcQ=
+			DofYk9AQCc7YEteNM2gggVzOJ8I=
 			</data>
 			<key>hash2</key>
 			<data>
-			bqaHv58In/Js4JHnjxFyMAFZ72mg51daYaqY5DIHy24=
+			OukhqSJksFDmUjgkFsQVSSuawinovi8N5Ut2ZohJs6o=
 			</data>
 		</dict>
 		<key>PredictNotificationView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RWQEC4y331bJ3/EgpVELsNI5IJw=
+			PkIlmQLiuqFtYjixfTSwEY4vR14=
 			</data>
 			<key>hash2</key>
 			<data>
-			AYd2+wd51l8nVMfk1FaAActiQco6MFMMGfSvY/AESN0=
+			QuFESqbyiz213xBHmqpEo/yBgP5Wb1IURdA3PMdhomA=
 			</data>
 		</dict>
 		<key>PredictSB.storyboardc/F3E-ar-M2W-view-MLQ-XP-cvd.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8JvXkpgcaVmzB01iSStYxNHwsUc=
+			YnXg6swReYLlE5S2TS9xdUdaaEw=
 			</data>
 			<key>hash2</key>
 			<data>
-			/Jti+LoKuYJZhZwlhwcq+jAvAjuhlaD2+5Nk8r/+mvg=
+			i3pooaIsQEjGs4czUWuIdU19wAupVS5yIxhHMsXPHPE=
 			</data>
 		</dict>
 		<key>PredictSB.storyboardc/F3E-ar-M2W-view-MLQ-XP-cvd.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ka0A6S88dJxUNcI9RtQm2wtXxek=
+			8XrCTjWBMALG8bYNRxQswFcsEgI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Nn+ek8qgXrxSywab1uNfvSIezJqMEkc2j0iglAfhHdo=
+			JQyekeJ4SMQvNxgYfFqp42PTbeAAyb939XjQyNvfv+M=
 			</data>
 		</dict>
 		<key>PredictSB.storyboardc/Info.plist</key>
@@ -1097,132 +1097,132 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+mQLQzAibLQWfpLg4vtxsSKth0g=
+			qVRSBNHkYufdHputFH6wN0wCj7c=
 			</data>
 			<key>hash2</key>
 			<data>
-			1R/N36oOIHviRWcDErPhk6hwxvRN/mZcvdUOWkk4O5Y=
+			sNvCjtCyOKKWXMsKYeGpGrfcswyzpvgHsonMjhDg0q0=
 			</data>
 		</dict>
 		<key>PredictSB.storyboardc/PredictGamesController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XE/fa192AZIfaWnofLFqPvrAeXE=
+			k1VM76RIUwD1wOMmVpt5a42BMWE=
 			</data>
 			<key>hash2</key>
 			<data>
-			o1bKE21MzW6/zcG2TNeSDhQiKZP7ydxtTWh3DUfGtpI=
+			f1sJQ3zqWXYLw/l1522BlNnEBJW9Z52FyKqXvuSd1Gc=
 			</data>
 		</dict>
 		<key>PredictSB.storyboardc/PredictIntroController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AyFqrqy9lHNwLhIpfUJFnP+b+9M=
+			RWK2ID6odYlr9Gk4psWYr4nEoGg=
 			</data>
 			<key>hash2</key>
 			<data>
-			a4pFDBp3h4UeFP3KCeLqL1qMh1yUvKfEB+FH5FRyD4c=
+			7FI3M/qOcEN3Lc7/sPJOEqLNHfivp9pSuEbrU5/IpxQ=
 			</data>
 		</dict>
 		<key>PredictSB.storyboardc/PredictIntroController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FH4XX8hL6bcwNQBzIdpW+oszxCM=
+			+usACYpYjtfmhJYzUie3IKisBzw=
 			</data>
 			<key>hash2</key>
 			<data>
-			pxsBV1KlLBMExXwX07lzC7sEAa1G9ilSUFdiozDD9GY=
+			jMYFQS63coUU1MJrg2SZpz1WEwwVaf3S/3IU6cgdkWc=
 			</data>
 		</dict>
 		<key>PredictSB.storyboardc/UINavigationController-49d-YC-ute.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UovMiTyzej5/Pkb+eEuA4S3038A=
+			yw0WsFsU/X9c97FcG7AmUbxXzvA=
 			</data>
 			<key>hash2</key>
 			<data>
-			9y7JuFwc6Q7zx6VrAJOO+v/cnEirYQLErCSieGSs638=
+			BqUueCxLsri8Qg9z7ACF0CquCyDNOiqX94/XejxvM70=
 			</data>
 		</dict>
 		<key>PredictSB.storyboardc/UINavigationController-49d-YC-ute.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nENsId9i8+ErZ9e0bq08YLOK/w4=
+			6GBEUPpU8YbrcLkvLQAY112BKPA=
 			</data>
 			<key>hash2</key>
 			<data>
-			nchUfpS/BSjk0XU6zCgGx9U9hWY0u+FjFcsPOY8JDkc=
+			bQqK19XZoXj8LWSCkxcZ4QQWtYMCO74fJNaWtJDd4vo=
 			</data>
 		</dict>
 		<key>PredictSB.storyboardc/vAH-o6-3aM-view-dpW-9v-hNJ.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JgAVnRGlxWrSJ3xwyG1rQSfhcb8=
+			l4TdxOQrYuJHRSXWObvshFqD4rw=
 			</data>
 			<key>hash2</key>
 			<data>
-			ny5UkdIzO0gwrosZAzEx7iEYjDhH16+6EwTXHXGNduM=
+			UzF011UgAuSivHk1OgVBeB2kk2464P8WbgTItpO2xx0=
 			</data>
 		</dict>
 		<key>PredictSB.storyboardc/vAH-o6-3aM-view-dpW-9v-hNJ.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WPE9fIla0YgoUhm6Zh9rZGmbLI4=
+			Kp0VdaG9oJ6Ovr0ahUOmVK9ISxY=
 			</data>
 			<key>hash2</key>
 			<data>
-			okqHqm4lGdoTg2e4aYjsDffUT3NVJRn9gcRQNex5eD8=
+			UWPr+MVKHp1HQXqVQWN3b4A7I7X79InI50t+8/eNQnA=
 			</data>
 		</dict>
 		<key>PredictTeamView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4IPZ/6LsEodqJbkFzC0O9o57Zz0=
+			Xl8Ft2IRJPEAEU/jPD8qw4KD410=
 			</data>
 			<key>hash2</key>
 			<data>
-			C1jHHU22ZRjQLupe4d0bI5Un3o3hdtOapLXBpyvgvw4=
+			tkvt9EikXFySG8NTRZ9OphsfeyucG4sviWs7qgv1XPI=
 			</data>
 		</dict>
 		<key>PredictTermsConditionView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7oGQic/Oin0OCWm7HpAupd85SV4=
+			230KVZtC72gbP6HMhqCcxvjkOWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			9lWRlELWra7jBF2azExub04uOVsuqAnuhOZ5DJI3o4M=
+			7HxtqUoEy37mbOZY4vEv9LPnmth9J+d+3eZo+zzQpeU=
 			</data>
 		</dict>
 		<key>ResultView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Le+CFCf6XEGlg3czxyusPUD0FPA=
+			w7QCb2Jwqo79NELe1GvKzDztVyw=
 			</data>
 			<key>hash2</key>
 			<data>
-			R6Jz+HPmea4PLroWrxOC3ptXKcL2rWlXukbrsyXJ/1s=
+			8DI9jl81qlk6uIfsxqDASsz2EPkkOvmnhs9NwfJll4E=
 			</data>
 		</dict>
 		<key>ResultView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nW9u59rWhU4Y4Hwai0PIGb4tiGI=
+			8b8e1ekrkybBDqqxgfhn/8qkbzQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			CzBZtUYWPoMi0aXSdusEaApdTyCp8px6/V00r3qaMQ8=
+			qVQomlBvErxfsXErXupj0p+h7qe8sVt9MrgMYDr3Fr4=
 			</data>
 		</dict>
 		<key>STCForward-Bold.ttf</key>
@@ -1273,121 +1273,121 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gwLLOp0D2E0ThMbjdVhicx71RLw=
+			W6i7IqMgHl59Z1yuMwYeWcZ6nog=
 			</data>
 			<key>hash2</key>
 			<data>
-			QWU7maoo/NZGdn8s9oya32jy1UrzmwPw+RkzGdi0UlE=
+			No57GE1JmyaHGsxEsp8QZyddk1M7/7iZB9C4IU/Gpgw=
 			</data>
 		</dict>
 		<key>ShakeBox.storyboardc/ShakeBoxViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VpRNo9gH1rwKKZtYPpgVVJ2Yt74=
+			zjpgejiPQ8PajqyJfa4Lw0zuy0A=
 			</data>
 			<key>hash2</key>
 			<data>
-			gL7/mTIaOi4QY4kJG0jfgta914azCc7cWmi4vbxjxAo=
+			y/Ctp+j+QwrTfO1mhcQs9LuU/CSrcesQjc6UCaxEoSI=
 			</data>
 		</dict>
 		<key>ShakeBox.storyboardc/b4v-6M-DcD-view-Ez3-7j-o1j.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9dcNgHU+M7hz7KOXe514nyjvkVk=
+			gfkVF1BqMpPIToPQrFMwYKM8Zg4=
 			</data>
 			<key>hash2</key>
 			<data>
-			+DpyoEeluaXMjj/41/DCFMEYHWWbnceNbtnzs+9OTM0=
+			aeV+YkZ2imsnJmqp4e88I3LaOaoE611d9lWs6WJo6vo=
 			</data>
 		</dict>
 		<key>ShakeBox.storyboardc/b4v-6M-DcD-view-Ez3-7j-o1j.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WTSMwsCsMgTBtVUbx0fYCs2ce9Q=
+			gWYWWE+1MlT72JhghmgHLLV9FMY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z5YoH54VcMOYju/h5SYraBvsQu+EZ8rBbM9DQmXlUJM=
+			+yRs7SEpqJmCtY6H+RwS+9ndstbgYZdOsUYLulVceUE=
 			</data>
 		</dict>
 		<key>ShakeBoxView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rrAouRlDMAumxo2lv2QbQqvxGJc=
+			L4cOiGSdJVtLCBUK/QoZT0tJ314=
 			</data>
 			<key>hash2</key>
 			<data>
-			+dzP1LLB0vp8GEaK9Djfc9Upq5ksgcIfHGcydJd4XtM=
+			gPVWEJ1zm3rggGChHYYQnL3d757WkVr/GixMQOPay+A=
 			</data>
 		</dict>
 		<key>TermsAndCondition.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1EiuoTT1D04SJe/ryeXleu3eEaY=
+			Mq4X8bHmAdwUYVNJEakwWeI1k04=
 			</data>
 			<key>hash2</key>
 			<data>
-			RT8VlB9jKZhKcvaDUEvEXyH+YLRv3JTBWwnvk2CDCE8=
+			Gf7uh9kZc034LetMRljBk4/puRICFN+Px72dYHkCfrI=
 			</data>
 		</dict>
 		<key>TermsAndCondition.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0Kbd2M3rEEAl83QX+o+u0SaYJAI=
+			iIq1upI12FjIyoBeYrgKaQkyIdE=
 			</data>
 			<key>hash2</key>
 			<data>
-			vWwY/+28JmFGg8t/HJBBMzJQYrdNIK3/6VxpxTAmRFw=
+			m2GIaf6mHzg8lEXidrwYpi55ePCALQTYZ6bZQZpMwNM=
 			</data>
 		</dict>
 		<key>TermsView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			l6cTZgSM11g+8qx37RaLAlYXF6E=
+			yftK/ibOnMdYr4KerAIpUUGwv2A=
 			</data>
 			<key>hash2</key>
 			<data>
-			+GoDHmObYbP89riBeNW+CpLEauJVTXk3NDZAMbAPA/8=
+			H50jRG2hlY1zx8pYbcWXO7eatxHl14R4kz3xMRRbooI=
 			</data>
 		</dict>
 		<key>TermsView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mhZP+Bl8VNPAi7aYYLAq8lF7xmw=
+			5eWXfQgHQQkyw1KhuD4a46ocCmQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			uSEvsC9kTODauaf3SwLmpkCYzsZoLVHSXrofhbwGXSM=
+			hQS1csJlklQHxavurDRXffP/QoEdEsesUbqKcamUg1o=
 			</data>
 		</dict>
 		<key>UpComingMatchTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NBu6m6T+Tna9W2h8NgeimUeHvDI=
+			RzeFC/lNk0R5wruDWqeDydEEADo=
 			</data>
 			<key>hash2</key>
 			<data>
-			JmP3DC/Y1vfxM6v1ZaXqUuoeD6YssmuMfuLq56lKmFc=
+			C1avoXFftcqPD2IcjFhyNMHkNX5Gbyk1SHySSVf11Fg=
 			</data>
 		</dict>
 		<key>ar.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HZi6WtX/Cc7KcaLoXb3njrjPOh0=
+			Gs927LjHT5KpfWNhw5Ql/TF8DsY=
 			</data>
 			<key>hash2</key>
 			<data>
-			aBB2h7kmvYSlDaEK6QlrEIqKhaBESX2mnVJ/VV6oGZU=
+			UAlzqlQOcQHaP3036Ebq9793htAJdUom6FF5ifZwvXA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1396,11 +1396,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ePwf68ais0JfcTAG9EgpB4HUBwA=
+			lNFOhlURGtlFLVNPuCB16myCV+I=
 			</data>
 			<key>hash2</key>
 			<data>
-			T5TNxguY+LLj58qpV0VDz7ocelBJcAcAwKG906Dd2iI=
+			o61UcE7yFgHhA4wevdX62CruBHPGmbBH7VQGXvTbozE=
 			</data>
 			<key>optional</key>
 			<true/>
