@@ -1,11 +1,12 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)
+// swift-compiler-version: Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)
 // swift-module-flags: -target x86_64-apple-ios10.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name STCGamification
 import Foundation
 @_exported import STCGamification
 import Swift
 import SystemConfiguration
 import UIKit
+import _Concurrency
 @_hasMissingDesignatedInitializers public class Reachability {
   public func isConnectedToNetwork() -> Swift.Bool
   @objc deinit
@@ -19,7 +20,7 @@ public enum GameAction {
 @_hasMissingDesignatedInitializers public class Game {
   public class func updateToken(token: Swift.String)
   public class func testAlert(controler: UIKit.UIViewController)
-  public class func openGame(controller: UIKit.UIViewController, mobileNumber: Swift.String?, language: Swift.String, nationalId: Swift.String, nationalIdType: Swift.String, gameType: Swift.String, apiKey: Swift.String, gameid: Swift.String?, token: Swift.String, complition: ((STCGamification.GameAction) -> Swift.Void)?)
+  public class func openGame(controller: UIKit.UIViewController, mobileNumber: Swift.String?, language: Swift.String, nationalId: Swift.String, nationalIdType: Swift.String, gameType: Swift.String, apiKey: Swift.String, gameid: Swift.String?, token: Swift.String, isPreProduction: Swift.Bool, complition: ((STCGamification.GameAction) -> Swift.Void)?)
   public class func dismissController()
   @objc deinit
 }
