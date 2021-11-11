@@ -13,6 +13,7 @@ import UIKit
 public enum GameAction {
   case dismiss
   case onSuccess
+  case ok
   case tokenExpired
   case error(_: Swift.String, _: Swift.String)
 }
