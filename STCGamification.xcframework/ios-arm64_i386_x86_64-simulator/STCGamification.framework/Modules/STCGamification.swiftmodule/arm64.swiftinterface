@@ -23,3 +23,6 @@ public enum GameAction {
   public class func dismissController()
   @objc deinit
 }
+extension UIColor {
+  public class func uiColor(from rgbValue: Swift.UInt, alpha: CoreGraphics.CGFloat = 1.0) -> UIKit.UIColor
+}
