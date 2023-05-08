@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -16,6 +16,7 @@
 		339D88E52681D6910072D634 /* STCGamification.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 339D88E22681D6910072D634 /* STCGamification.podspec */; };
 		339D88E62681D6910072D634 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 339D88E32681D6910072D634 /* README.md */; };
 		339D88E72681D6910072D634 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 339D88E42681D6910072D634 /* LICENSE */; };
+		6A11F8F22A09203200A09E12 /* STCGamification.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A11F8F12A09203200A09E12 /* STCGamification.xcframework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +44,7 @@
 		339D88E22681D6910072D634 /* STCGamification.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = STCGamification.podspec; sourceTree = SOURCE_ROOT; };
 		339D88E32681D6910072D634 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		339D88E42681D6910072D634 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
+		6A11F8F12A09203200A09E12 /* STCGamification.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = STCGamification.xcframework; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +52,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6A11F8F22A09203200A09E12 /* STCGamification.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +84,7 @@
 				339D88CC2681D5420072D634 /* AppDelegate.swift */,
 				339D88CE2681D5420072D634 /* SceneDelegate.swift */,
 				339D88D02681D5420072D634 /* ViewController.swift */,
+				6A11F8F12A09203200A09E12 /* STCGamification.xcframework */,
 				339D88D22681D5420072D634 /* Main.storyboard */,
 				339D88D52681D5460072D634 /* Assets.xcassets */,
 				339D88D72681D5460072D634 /* LaunchScreen.storyboard */,
