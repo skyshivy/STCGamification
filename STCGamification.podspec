@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.description  = <<-DESC
 	import STCGamification framework and implement methods
 			DESC
-  spec.ios.deployment_target = '9.0'
+  
   spec.homepage     = 'https://github.com/skyshivy/STCGamification'
   spec.authors      = { 'skyshivy' => 'sky.shivy@gmail.com' }
   spec.license      = { :type => "MIT", :file => "license" }
