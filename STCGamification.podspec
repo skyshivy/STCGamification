@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = 'https://github.com/skyshivy/STCGamification'
   spec.authors      = { 'skyshivy' => 'sky.shivy@gmail.com' }
   spec.license      = { :type => "MIT", :file => "license" }
-  spec.swift_version = '4.0'
+  
   spec.platform      = :ios
   spec.source       = { :git => 'https://github.com/skyshivy/STCGamification.git', :tag => spec.version }
 
