@@ -9,7 +9,10 @@ Pod::Spec.new do |spec|
   spec.authors      = { 'skyshivy' => 'sky.shivy@gmail.com' }
   spec.license      = { :type => "MIT", :file => "license" }
   spec.platform      = :ios
-  spec.source       = { :git => 'https://github.com/skyshivy/STCGamification.git', :tag => spec.version }
+  spec.source       = {
+   :git => 'https://github.com/skyshivy/STCGamification.git', :tag => spec.version,
+  :submodules => true
+}
   spec.vendored_frameworks = 'STCGamification.xcframework'
   spec.exclude_files = "Classes/Exclude"
   spec.requires_arc = true
