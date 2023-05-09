@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'STCGamification'
-  spec.version      = '0.1.58'
+  spec.version      = '0.1.59'
   spec.summary      = 'STCGamification framework'
   spec.description  = <<-DESC
 	import STCGamification framework and implement methods
@@ -10,9 +10,7 @@ Pod::Spec.new do |spec|
   spec.license      = { :type => "MIT", :file => "license" }
   spec.platform      = :ios
   spec.source       = {
-   :git => 'https://github.com/skyshivy/STCGamification.git', :tag => spec.version,
-  :submodules => true
-}
+   :git => 'https://github.com/skyshivy/STCGamification.git', :tag => spec.version}
   spec.vendored_frameworks = 'STCGamification.xcframework'
   spec.exclude_files = "Classes/Exclude"
   spec.requires_arc = true
